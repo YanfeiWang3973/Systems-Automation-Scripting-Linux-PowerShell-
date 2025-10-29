@@ -1,4 +1,8 @@
 ### Overview
+
+Picked 3 projects from college lab works. for more proejects please check the repo "F22-comp2101-Yanfei-Wang" 
+link: https://github.com/YanfeiWang3973/F22-comp2101-Yanfei-Wang 
+
 Built automation scripts in both Linux (Bash) and Windows (PowerShell) to collect system and network data, create reports, and automate setup tasks.  
 
 These labs helped me understand how operating systems work under the hood and how to automate repetitive technical steps.
